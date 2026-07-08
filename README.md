@@ -37,6 +37,12 @@ The awareness program aligns with ISO/IEC 27001:2022 Annex A.6.3, as well as sup
 
 ---
 
+## Repository Status
+
+This repository contains the completed Week 5 Security Awareness Program Design assignment that was prepared as part of the Sohail Smart Solutions Summer Training Program 2026. It is able to demonstrate the design of a structured six-month security awareness program that is able to support the ISO/IEC 27001:2022 Annex A.6.3, as well as promotes a stronger security culture within the organization.
+
+---
+
 **Prepared by**
 
 Mohammad Hesham Wazir Ali Behlum
